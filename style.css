@@ -1,0 +1,45 @@
+.heading_links {
+	display: inline;
+	margin-right: 50px;
+	font-family: arial,sans-serif;
+	color: #404040;
+}
+#google_image {
+	display: block;
+	height: 95px;
+	width: 269px;
+	margin: auto;
+	text-align: center;
+	padding-top: 112px;
+}
+li {
+	list-style-type: none;
+	display: inline;
+}
+.link {
+	line-height: normal;
+	padding-right: 13px;
+}
+a {
+	text-decoration: none;
+}
+a:hover {
+	font-family: arial,sans-serif;
+	color: #000;
+	text-decoration: underline;
+}
+a:visited {
+	font-family: arial,sans-serif;
+	text-decoration: none;
+	color: #404040;
+}
+#apps {
+	opacity: .5;
+	float: right;
+	margin-right: 20px;
+	margin-top: -5px;
+}
+div ul {
+	text-align: right;
+	position: relative;
+}
